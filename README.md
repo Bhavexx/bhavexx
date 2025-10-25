@@ -14,7 +14,7 @@
 I'm an aspiring **Software Engineer** with a passion for building robust and scalable applications. My focus is on **full-stack development** using the **MERN stack (MongoDB, Express, React, Node.js)** and building a strong foundation in **DevOps** principles, including automation, containerization, and CI/CD pipelines.
 
 - 🌱 I'm currently expanding my knowledge in the **MERN stack** and **DevOps**.
-- 👨‍💻 Check out my work and projects on my **<a href="https://bhavexx.github.io/portpolio-website-/" target="_blank">Portfolio Website</a>**.
+- 👨‍💻 Check out my work and projects on my **<a href="https://bhavik-portpolio.vercel.app/" target="_blank">Portfolio Website</a>**.
 - 📫 You can reach me via email at **bhaviknaik05@gmail.com**.
 
 ---
